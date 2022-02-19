@@ -1,0 +1,66 @@
+.top{
+    background-color: blue;
+    color: white;
+}
+tr{
+    background-color: silver;
+}
+table{
+    border-collapse: collapse;
+    width: 88%;
+    height:30pt;
+    
+}
+#button{
+    width: 150px;
+    height: 28px;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    border-style: hidden;
+}
+.box{
+    width: 260px;
+    height: 30px;
+    border-radius: 3px;
+    border-style: hidden;
+    /* vertical-align: 70px; */
+}
+.box1{
+    width: 500px;
+    height: 35px;
+    border-radius: 5px;
+    border-style: hidden;
+}
+p{
+    font-size: larger;
+    font-family: Constantia;
+}
+.top1{
+    font-size: 30px;
+    font-family: Impact;
+    font-weight: 2;
+    text-align:start;
+}
+
+.sign{
+
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.sub{
+    width: 110px;
+    height: 35px;
+    border-radius: 3px;
+    
+    
+}
+tr{
+    height: 2px;
+}
+
+.space{
+    
+    vertical-align: -50px;
+}
